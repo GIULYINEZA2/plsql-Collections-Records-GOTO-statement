@@ -140,7 +140,7 @@ https://github.com/GIULYINEZA2/plsql-Collections-Records-GOTO-statement/blob/f9c
 
 - ER / relationship diagram
 
-  ![Relationship diagram](screenshots/relationship.png)
+   ![My Screenshot](https://github.com/GIULYINEZA2/plsql-Collections-Records-GOTO-statement/blob/772ba4e45097d5214cd6a20ff9c37d46882622c8/Screenshots/relationship.png)
 
 ---
 
