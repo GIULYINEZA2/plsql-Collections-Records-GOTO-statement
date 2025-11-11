@@ -110,19 +110,33 @@ Below are screenshots demonstrating schema creation, table population, report ou
 
 - Tables created
 
-  ![Tables created](screenshots/tablesCreated.png)
+  ![My Screenshot](https://github.com/GIULYINEZA2/plsql-Collections-Records-GOTO-statement/blob/f9c4205d8a6bcb9c865d034a27eb5c7197900ae2/Screenshots/create%20tables.png)
 
-- Table population (sample rows inserted)
 
-  ![Table population](screenshots/tablePopulation.png)
+- Rows inserted into students
+
+ ![My Screenshot](https://github.com/GIULYINEZA2/plsql-Collections-Records-GOTO-statement/blob/f9c4205d8a6bcb9c865d034a27eb5c7197900ae2/Screenshots/insert%20into%20students.png)
+
+-Rows inserted into courses
+
+   ![My Screenshot](https://github.com/GIULYINEZA2/plsql-Collections-Records-GOTO-statement/blob/f9c4205d8a6bcb9c865d034a27eb5c7197900ae2/Screenshots/insert%20into%20courses.png)
+
+-Rows inserted into enrollement
+
+
+ ![My Screenshot](
+https://github.com/GIULYINEZA2/plsql-Collections-Records-GOTO-statement/blob/f9c4205d8a6bcb9c865d034a27eb5c7197900ae2/Screenshots/insert%20into%20enrollements%20.png)
+ 
 
 - Student report output
 
-  ![Student report](screenshots/studentReport.png)
+  ![Student report](https://github.com/GIULYINEZA2/plsql-Collections-Records-GOTO-statement/blob/f9c4205d8a6bcb9c865d034a27eb5c7197900ae2/Screenshots/output%201.png)
 
-- Department statistics output
+  
+  ![Student report](https://github.com/GIULYINEZA2/plsql-Collections-Records-GOTO-statement/blob/f9c4205d8a6bcb9c865d034a27eb5c7197900ae2/Screenshots/output%202.png)
 
-  ![Statistics](screenshots/statistics.png)
+
+
 
 - ER / relationship diagram
 
